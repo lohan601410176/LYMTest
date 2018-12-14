@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.license      = "MIT"
   s.author       = { "刘艺萌" => "lohan601410176@163.com" }
-  s.source       = { :git => "https://github.com/lohan601410176/LYMTest.git", :tag => "{s.version}" }
+  s.source       = { :git => "https://github.com/lohan601410176/LYMTest.git" }
   s.source_files  = 'LYMTest/Classes/**/*.{h,m}'
   s.requires_arc = true
 
